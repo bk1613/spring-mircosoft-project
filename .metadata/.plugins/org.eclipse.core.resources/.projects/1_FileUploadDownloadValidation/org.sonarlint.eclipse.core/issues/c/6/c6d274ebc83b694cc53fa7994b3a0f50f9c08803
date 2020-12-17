@@ -1,0 +1,36 @@
+
+|
+java:S1128"DRemove this unused import 'org.springframework.core.io.UrlResource'.(ÿΩΨ†ÿÿÿÿÿ8§¬τοε.HΦTRMINORZ
+CODE_SMELL
+n
+java:S1128";Remove this unused import 'java.net.MalformedURLException'.(ªΛή8§¬τοε.HΧTRMINORZ
+CODE_SMELL
+t
+java:S1128"ARemove this unused import 'org.springframework.core.io.Resource'.(ΉÒΑ8§¬τοε.HΨTRMINORZ
+CODE_SMELL
+w
+java:S2147Z"DCombine this catch with the one at line 87, which has the same body.(Γτώ•8§¬τοε.HΩTRMINORZ
+CODE_SMELL
+^
+java:S1148b"#Use a logger to log this exception.(€ΙΤ…ύÿÿÿÿ8ζªχοε.HΪTRMINORZVULNERABILITY
+e
+java:S2093M"*Change this "try" to a try-with-resources.(΅»Άόωÿÿÿÿ8§¬τοε.HΫTRCRITICALZ
+CODE_SMELL
+b
+java:S1066I"/Merge this if statement with the enclosing one.(„‹ΙΞ8§¬τοε.HάTRMAJORZ
+CODE_SMELL
+“
+java:S1128"`Remove this unused import 'org.springframework.web.servlet.support.ServletUriComponentsBuilder'.(™ƒΉ8’ό±οε.HέTRMINORZ
+CODE_SMELL
+\
+java:S1452E"&Remove usage of generic wildcard type.(ύρ8μθµοε.HήTRCRITICALZ
+CODE_SMELL
+p
+java:S2147<"DCombine this catch with the one at line 56, which has the same body.(…‰”ΟHίTRMINORZ
+CODE_SMELL
+
+java:S3776E"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(ύρ8ζªχοε.HΰTRCRITICALZ
+CODE_SMELL
+u
+java:S1128"BRemove this unused import 'javax.servlet.http.HttpServletRequest'.(ψ©Ή…8§¬τοε.HαTRMINORZ
+CODE_SMELL

@@ -1,0 +1,12 @@
+
+[
+java:S1481E"(Remove this unused "ite" local variable.(Ê±³ô8éåšîä.HüLRMINORZ
+CODE_SMELL
+}	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ò÷º¥ÿÿÿÿÿHıLRMINORZ
+CODE_SMELL
+W	java:S131""Add a default case to this switch.(’ÎÁÄ8Ÿçíä.HşLRCRITICALZ
+CODE_SMELL
+W	java:S131""Add a default case to this switch.(’ÎÁÄ8Ÿçíä.HÿLRCRITICALZ
+CODE_SMELL
+W	java:S131%""Add a default case to this switch.(’ÎÁÄ8Ÿçíä.H€MRCRITICALZ
+CODE_SMELL

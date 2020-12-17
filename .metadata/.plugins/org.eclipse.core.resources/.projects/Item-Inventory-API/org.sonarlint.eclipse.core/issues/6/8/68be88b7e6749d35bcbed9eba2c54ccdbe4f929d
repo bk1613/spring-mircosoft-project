@@ -1,0 +1,71 @@
+
+d
+java:S1874J"1Remove this use of "JSONValue"; it is deprecated.(²×øˆ8âåÒä.H”MRMINORZ
+CODE_SMELL
+`
+java:S1874J"-Remove this use of "parse"; it is deprecated.(²×øˆ8§ÿ¸Òä.H•MRMINORZ
+CODE_SMELL
+j
+java:S1874\"2Remove this use of "JSONObject"; it is deprecated.(µó©íşÿÿÿÿ8§ÿ¸Òä.H–MRMINORZ
+CODE_SMELL
+ƒ	java:S1177"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÛäòÕ8öûÁÒä.H—MRMINORZ
+CODE_SMELL
+j
+java:S18740"2Remove this use of "JSONObject"; it is deprecated.(º×´Îÿÿÿÿÿ8²ªíÄä.H˜MRMINORZ
+CODE_SMELL
+d
+java:S1874T"1Remove this use of "JSONArray"; it is deprecated.(Õá÷Ë8ßŸğÒä.H™MRMINORZ
+CODE_SMELL
+_
+java:S1148‰"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8§ÿ¸Òä.HšMRMINORZVULNERABILITY
+i
+java:S18749"1Remove this use of "JSONArray"; it is deprecated.(£•À¹şÿÿÿÿ8§ÿ¸Òä.H›MRMINORZ
+CODE_SMELL
+j
+java:S18740"2Remove this use of "JSONObject"; it is deprecated.(º×´Îÿÿÿÿÿ8âåÒä.HœMRMINORZ
+CODE_SMELL
+j
+java:S1874\"2Remove this use of "JSONObject"; it is deprecated.(µó©íşÿÿÿÿ8ƒŠ¿Ää.HMRMINORZ
+CODE_SMELL
+ˆ	java:S117^"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µ´¨€úÿÿÿÿ8§ÿ¸Òä.HMRMINORZ
+CODE_SMELL
+e
+java:S18740"-Remove this use of "parse"; it is deprecated.(º×´Îÿÿÿÿÿ8“ŠİÄä.HŸMRMINORZ
+CODE_SMELL
+e
+java:S1874\"-Remove this use of "parse"; it is deprecated.(µó©íşÿÿÿÿ8âåÒä.H MRMINORZ
+CODE_SMELL
+ƒ	java:S1176"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ÿ˜ÕÕ8ÊØµÒä.H¡MRMINORZ
+CODE_SMELL
+s
+java:S2142ˆ"FEither re-interrupt this method or rethrow the "InterruptedException".(ò¶È8§ÿ¸Òä.H¢MRMAJORZBUG
+i
+java:S18740"1Remove this use of "JSONValue"; it is deprecated.(º×´Îÿÿÿÿÿ8“ŠİÄä.H£MRMINORZ
+CODE_SMELL
+l
+java:S1118":Add a private constructor to hide the implicit public one.(ŒÅüg8ÄË¯óã.H¤MRMAJORZ
+CODE_SMELL
+c
+java:S14816"0Remove this unused "total_pages" local variable.(Ÿ˜ÕÕ8£ˆÓä.H¥MRMINORZ
+CODE_SMELL
+d
+java:S18742"1Remove this use of "JSONArray"; it is deprecated.(•€Šä8âåÒä.H¦MRMINORZ
+CODE_SMELL
+i
+java:S1874L"1Remove this use of "JSONArray"; it is deprecated.(³ÈÒ…øÿÿÿÿ8ƒŠ¿Ää.H§MRMINORZ
+CODE_SMELL
+e
+java:S1874J"2Remove this use of "JSONObject"; it is deprecated.(²×øˆ8§ÿ¸Òä.H¨MRMINORZ
+CODE_SMELL
+i
+java:S1874\"1Remove this use of "JSONValue"; it is deprecated.(µó©íşÿÿÿÿ8§ÿ¸Òä.H©MRMINORZ
+CODE_SMELL
+q
+java:S1128">Remove this unused import 'org.json.simple.parser.JSONParser'.(õø²¹8ğÿéÃä.HªMRMINORZ
+CODE_SMELL
+d
+java:S18742"1Remove this use of "JSONArray"; it is deprecated.(•€Šä8ƒŠ¿Ää.H«MRMINORZ
+CODE_SMELL
+|
+java:S1128"DRemove this unused import 'org.springframework.http.ResponseEntity'.(¶¯ø¦úÿÿÿÿ8•ÅÕôã.H¬MRMINORZ
+CODE_SMELL

@@ -1,0 +1,30 @@
+package com.synex.controller;
+
+import java.util.List;
+
+public class Cashier {
+	
+	int n;
+	
+	int discount;
+	
+	
+
+	public Cashier(int n, int discount, List<Integer> l1, List<Integer> l2) {
+		super();
+		this.n = n;
+		this.discount = discount;
+	}
+
+	public double getBill(List<Integer> l1, List<Integer> l2) {
+		
+		return 0;
+	}
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+
+	}
+
+}

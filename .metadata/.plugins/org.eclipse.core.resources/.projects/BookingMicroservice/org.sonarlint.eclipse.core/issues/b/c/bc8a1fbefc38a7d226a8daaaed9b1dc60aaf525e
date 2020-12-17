@@ -1,0 +1,13 @@
+
+_
+java:S1481n",Remove this unused "message" local variable.(Áîš8 Çø¨Î.Hœ,RMINORZ
+CODE_SMELL
+z
+java:S1128"GRemove this unused import 'org.springframework.mail.SimpleMailMessage'.(€·ÊŒ8ÅÎİ§Î.H,RMINORZ
+CODE_SMELL
+r
+java:S1128":Remove this unused import 'java.io.FileNotFoundException'.(·î™ùÿÿÿÿ8¬“ÔœĞ.H,RMINORZ
+CODE_SMELL
+±
+java:S1130)"yRemove the declaration of thrown exception 'java.net.MalformedURLException' which is a subclass of 'java.io.IOException'.(Úñ“Îøÿÿÿÿ8¬“ÔœĞ.HŸ,RMINORZ
+CODE_SMELL

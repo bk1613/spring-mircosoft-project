@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+<script src="js/jquery-2.1.1.min.js"></script>
+<script>
+$(document).ready(function(){
+	$(".sbtButton").click(function(){//selection by class name
+		//$("h3").text("here are all the related hotels")//selection by tag name
+		$("h1").text("you have changed the heading")
+		//alert($("#demo1Div").html());//selection by id
+		var searchCity=$("#city").val();
+		//var searchValue1=$("#noRooms").val();
+		alert("Search value is "+searchCity);
+		
+		//alert("first list of element" + $("li:first").text())
+		
+	});
+	$("ul > a").click(function(){
+		alert("anchor tag")
+	});
+	
+	$("ul a").click(function(){
+		alert("us tag")
+	});
+	
+	$('input[value^="Button2"]').click(function(){
+		//alert("clicked on button "+$(this).val())
+		$('h2').text("first line is " + $("li:first").text())
+		/* $('h2').text("last line is " + $("li:last").text()) */
+		$("li:even").css("background-color", "red")
+		$("li:even").show()
+		$("li:odd").hide()
+	});
+	
+	$('input[value^="Button3"]').click(function(){
+		//alert("clicked on button "+$(this).val())
+		/* $('h2').text("first line is " + $("li:first").text()) */
+		/* $('h2').text("last line is " + $("li:last").text()) */
+		$("li:odd").css("background-color", "blue")
+		$("li:odd").show()
+		$("li:even").hide()
+	});
+ 	$('input[value^="Button4"]').click(function(){
+		
+ 		/*	 $('h2').text("first line is " + $("li:first").text()) 
+		 $('h2').text("last line is " + $("li:last").text()) 
+		$("li:odd").css("background-color", "blue")
+		$("li:odd").show()
+		$("li:even").hide()*/
+	}); 
+	
+	$("a:contains(UK)").click(function(){
+		
+		//$("h3").hide();
+		$("ul").append("<li>UK</li>");
+		//$("ul").prepend("<li>UK</li>");
+		//$("ul").after("<li>UK</li>");
+		
+				
+	});
+	$("a:contains(LUK)").click(function(){
+		
+		//$("h3").hide();
+		
+		$("ul").prepend("<li>UK</li>");
+		//$("ul").after("<li>UK</li>");
+		
+				
+	});
+	
+	
+	$("#togglecss").click(function(){
+		
+		$("h2").toggleClass("stl1");		
+				
+	});
+	
+	$("#loopli").click(function(){
+		
+		$("li").each(function(){
+			
+			alert($(this).text());
+			
+		});		
+				
+	});
+		
+});
+</script>
+<style>
+.stl1{
+font-size: 50px;
+}
+.stl2{
+font-size: 10px;
+}
+</style>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"></script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel="stylesheet" type="text/css" href="home.css">
+</head>
+<body>
+<h1>Something</h1>
+<div class="col-3">
+		city <input class="form-control" type="text" id="city" name="city"/>
+</div>
+<ul>
+<a href='#'>anchor tag</a>
+<li class='myclass'><a href='#'>US</a></li>
+<li class='sbc'>China</a></li>
+<li class='sbc'>Japan</a></li>
+</ul>
+
+<button class="sbtButton" id="buttonSbt" value="Button">button</button>
+
+<input type="button" value='Button2'/>
+<input type="button" value='Button3'/>
+<input type="button" value='Button4'/>
+<h2></h2>
+<br/>
+<a href='#'>UK</a>
+<a href='#'>LUK</a>
+<br/>
+
+<input type='button' value='TOGGLE' id='togglecss'/>
+<input type='button' value='LOOP LI' id='loopli'/>
+</body>
+</html>

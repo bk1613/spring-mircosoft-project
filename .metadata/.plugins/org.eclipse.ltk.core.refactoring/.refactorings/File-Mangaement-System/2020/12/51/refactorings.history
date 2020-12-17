@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;AppConfig.java&apos; to &apos;FileUplaodDonloadValidation/src/main/java/com.synex.config&apos;&#x0D;&#x0A;- Original project: &apos;File-Mangaement-System&apos;&#x0D;&#x0A;- Destination element: &apos;FileUplaodDonloadValidation/src/main/java/com.synex.config&apos;&#x0D;&#x0A;- Original element: &apos;com.synex.config.AppConfig.java&apos;" description="Copy compilation unit" destination="=FileUplaodDonloadValidation/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.synex.config" element1="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.synex.config{AppConfig.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1608044054681" units="1" version="1.0"/>
+</session>

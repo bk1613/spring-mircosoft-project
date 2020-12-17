@@ -1,0 +1,12 @@
+
+i	Web:S5254"@Add "lang" and/or "xml:lang" attributes to this "<html>" element(œ÷ÃûÿÿÿÿHÆ%RMAJORZBUG
+} Web:TableHeaderHasIdOrScopeCheck&";Add either an 'id' or a 'scope' attribute to this <th> tag.(·ÃÃİ8°Ä¤¯Ì.HÇ%RMAJORZBUG
+‚ Web:TableHeaderHasIdOrScopeCheck'";Add either an 'id' or a 'scope' attribute to this <th> tag.(¼¡™¬ÿÿÿÿÿ8°Ä¤¯Ì.HÈ%RMAJORZBUG
+cWeb:TableWithoutCaptionCheck" Add a description to this table.(¿‰˜ÿÿÿÿÿ8°Ä¤¯Ì.HÉ%RMINORZBUG
+[	Web:S1827")Remove this deprecated "align" attribute.(òå„ë8°Ä¤¯Ì.HÊ%RMAJORZ
+CODE_SMELL
+U	Web:S5256"%Add "<th>" headers to this "<table>".(¿‰˜ÿÿÿÿÿ8°Ä¤¯Ì.HË%RMAJORZBUG
+[	Web:S1827")Remove this deprecated "align" attribute.(˜¼Ÿ8°Ä¤¯Ì.HÌ%RMAJORZ
+CODE_SMELL
+‚ Web:TableHeaderHasIdOrScopeCheck%";Add either an 'id' or a 'scope' attribute to this <th> tag.(‹÷…˜şÿÿÿÿ8°Ä¤¯Ì.HÍ%RMAJORZBUG
+]Web:TableWithoutCaptionCheck#" Add a description to this table.(íÊğ28°Ä¤¯Ì.HÎ%RMINORZBUG

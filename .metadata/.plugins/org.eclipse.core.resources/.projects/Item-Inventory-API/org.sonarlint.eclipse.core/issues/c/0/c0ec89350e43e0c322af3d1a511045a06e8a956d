@@ -1,0 +1,55 @@
+
+y
+java:S4684!"@Replace this persistent entity with a simple POJO or DTO object.(Ùƒ÷‹8ĞÇî€ä.HÇURCRITICALZVULNERABILITY
+a
+java:S14522"&Remove usage of generic wildcard type.(•ŸŞøÿÿÿÿ8¸¿ä™ä.HÈURCRITICALZ
+CODE_SMELL
+‘
+java:S2293,"YReplace the type specification in this constructor call with the diamond operator ("<>").(ïØšıÿÿÿÿ8Ôª¯Îâ.HÉURMINORZ
+CODE_SMELL
+Œ
+java:S2293["YReplace the type specification in this constructor call with the diamond operator ("<>").(÷óÁ©8ÉºÎâ.HÊURMINORZ
+CODE_SMELL
+Œ
+java:S2293c"YReplace the type specification in this constructor call with the diamond operator ("<>").(ë™ôÏ8§ßŒä.HËURMINORZ
+CODE_SMELL
+a
+java:S1452o"&Remove usage of generic wildcard type.(Ñî–øıÿÿÿÿ8’Å°›ä.HÌURCRITICALZ
+CODE_SMELL
+‘
+java:S2293?"YReplace the type specification in this constructor call with the diamond operator ("<>").(Äàœëúÿÿÿÿ8ÉºÎâ.HÍURMINORZ
+CODE_SMELL
+x
+java:S4684O"@Replace this persistent entity with a simple POJO or DTO object.(ÂùíJ8Á”óÎâ.HÎURCRITICALZVULNERABILITY
+‘
+java:S2293]"YReplace the type specification in this constructor call with the diamond operator ("<>").(Äàœëúÿÿÿÿ8ĞÇî€ä.HÏURMINORZ
+CODE_SMELL
+y
+java:S46849"@Replace this persistent entity with a simple POJO or DTO object.(˜ÚŸ8Á”óÎâ.HĞURCRITICALZVULNERABILITY
+‘
+java:S2293v"YReplace the type specification in this constructor call with the diamond operator ("<>").(‚ë‹ñùÿÿÿÿ8¸¿ä™ä.HÑURMINORZ
+CODE_SMELL
+‘
+java:S2293J"YReplace the type specification in this constructor call with the diamond operator ("<>").(ïØšıÿÿÿÿ8ÍŠ¼Ìâ.HÒURMINORZ
+CODE_SMELL
+Œ
+java:S2293k"YReplace the type specification in this constructor call with the diamond operator ("<>").(ùîÖÀ8çÕ’ä.HÓURMINORZ
+CODE_SMELL
+‘
+java:S22934"YReplace the type specification in this constructor call with the diamond operator ("<>").(§®ø¸ûÿÿÿÿ8’Å°›ä.HÔURMINORZ
+CODE_SMELL
+i
+java:S1128"1Remove this unused import 'java.util.Collection'.(¹ÉĞšùÿÿÿÿ8ÉÚ°™ä.HÕURMINORZ
+CODE_SMELL
+‘
+java:S2293H"YReplace the type specification in this constructor call with the diamond operator ("<>").(”ëæ£üÿÿÿÿ8¸¬½Ìâ.HÖURMINORZ
+CODE_SMELL
+‘
+java:S2293)"YReplace the type specification in this constructor call with the diamond operator ("<>").(®²Â‹øÿÿÿÿ8ĞÇî€ä.H×URMINORZ
+CODE_SMELL
+Œ
+java:S2293="YReplace the type specification in this constructor call with the diamond operator ("<>").(Ë¢±÷8ÄÍÖÌâ.HØURMINORZ
+CODE_SMELL
+‘
+java:S2293S"YReplace the type specification in this constructor call with the diamond operator ("<>").(”ëæ£üÿÿÿÿ8 £ı€ä.HÙURMINORZ
+CODE_SMELL

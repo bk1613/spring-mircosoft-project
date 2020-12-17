@@ -1,0 +1,26 @@
+package com.synex.controller;
+
+public class IdenticalDistribution {
+
+	public void differenceiRequ(int num, int pack) {
+		
+	}
+	
+	
+	public static void main(String[] args) {
+		
+		int[] cardtypes = {4,7,5,11,15};
+		
+		int packet = 2;
+		
+		int cardsNeeded = 0;
+		
+		
+		
+		int n = cardtypes.length;
+		
+		
+		
+	}
+
+}

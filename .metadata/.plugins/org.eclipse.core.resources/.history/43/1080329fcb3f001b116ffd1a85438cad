@@ -1,0 +1,20 @@
+package com.synex.controller;
+
+public class PalindromePermutation {
+
+	public void palidrome() {
+		
+	}
+	
+	public void perm(String str, String ans) {
+		
+	}
+	
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		String tr = "Tact coa";
+		
+		
+	}
+
+}

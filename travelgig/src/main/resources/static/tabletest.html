@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+<script src="js/jquery-2.1.1.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<script src="js/jquery.dataTables.min.js"></script>
+<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+<link rel="stylesheet" type="text/css"
+	href="css/jquery.dataTables.min.css">
+<script>
+	$(document).ready(function() {
+
+	    $('#desigTable').DataTable( {
+	        orderCellsTop: true,
+	        fixedHeader: true,
+	        paginate: true,
+			"order": [[ 4, 'asc' ]]
+	    });
+	    
+		$("#btnModal").click(function() {
+
+			$("#myModal").modal('toggle');
+
+		});
+
+	});
+</script>
+</head>
+<body>
+
+
+<div class="col-md-12">
+								<div class="form-group">
+									<table class="table table-bordered table-striped"
+										id='desigTable'>
+										<thead>
+											<tr>
+												<th>ID</th>
+												<th>Name</th>
+												<th>Age</th>
+												<th>Salary</th>
+												<th>Address</th>
+												<th>City</th>
+												<th>Country</th>
+										   </tr>
+										</thead>
+											
+										    <tr>
+												<td>101</td>
+												<td>Ankit</td>
+												<td>37</td>
+												<td>500</td>
+												<td>Gzb</td>
+												<td>Delhi</td>
+												<td>India</td>
+										   </tr>
+										    <tr>
+												<td>101</td>
+												<td>Ankit</td>
+												<td>37</td>
+												<td>500</td>
+												<td>Gzb</td>
+												<td>Delhi</td>
+												<td>US</td>
+										   </tr>
+										    <tr>
+												<td>101</td>
+												<td>Ankit</td>
+												<td>37</td>
+												<td>500</td>
+												<td>Gzb</td>
+												<td>Delhi</td>
+												<td>US</td>
+										   </tr>
+										   										    <tr>
+												<td>101</td>
+												<td>Ankit</td>
+												<td>37</td>
+												<td>500</td>
+												<td>Gzb</td>
+												<td>Delhi</td>
+												<td>India</td>
+										   </tr>
+										   										    <tr>
+												<td>101</td>
+												<td>Ankit</td>
+												<td>37</td>
+												<td>500</td>
+												<td>Gzb</td>
+												<td>Delhi</td>
+												<td>India</td>
+										   </tr>
+										   
+										   										    <tr>
+												<td>101</td>
+												<td>Ankit</td>
+												<td>37</td>
+												<td>500</td>
+												<td>Gzb</td>
+												<td>Delhi</td>
+												<td>India</td>
+										   </tr>
+										   										    <tr>
+												<td>101</td>
+												<td>Ankit</td>
+												<td>37</td>
+												<td>500</td>
+												<td>Gzb</td>
+												<td>Delhi</td>
+												<td>India</td>
+										   </tr>
+										   
+										   
+										   
+									</table>
+								</div>
+							</div>
+</body>
+</html>

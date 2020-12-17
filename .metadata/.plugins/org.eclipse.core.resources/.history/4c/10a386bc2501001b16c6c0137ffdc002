@@ -1,0 +1,71 @@
+package com.synex.controller;
+
+import java.util.HashSet;
+import java.util.List;
+import java.util.Optional;
+import java.util.Set;
+
+import org.json.JSONObject;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.http.HttpStatus;
+import org.springframework.http.ResponseEntity;
+import org.springframework.web.bind.annotation.CrossOrigin;
+import org.springframework.web.bind.annotation.RequestBody;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestMethod;
+import org.springframework.web.bind.annotation.RestController;
+
+import com.synex.domain.Booking;
+import com.synex.domain.Guest;
+import com.synex.domain.RoomInventory;
+import com.synex.service.BookingService;
+import com.synex.service.GuestService;
+
+@CrossOrigin
+@RestController
+public class BookingController {
+
+	@Autowired
+	BookingService bookingService;
+	
+	@Autowired
+	GuestService guestService;
+	
+	@RequestMapping(value = "/bookhotel", method = RequestMethod.POST)
+	public ResponseEntity<Booking> bookHotel(@RequestBody Booking book){
+		System.out.println("In Microservice........."+book);
+		JSONObject jsonbook=new JSONObject(book);
+//		
+//		Booking bookroom = new Booking();
+//		bookroom.setHotelId(jsonbook.getInt("hotelId"));
+//		bookroom.setHotelRoomId(jsonbook.getInt("hotelRoomId"));
+//		bookroom.setCheckInDate(jsonbook.getString("checkInDate"));
+//		bookroom.setCheckOutDate(jsonbook.getString("checkOutDate"));
+//		bookroom.setPrice(jsonbook.getFloat("price"));
+//		bookroom.setDiscount(jsonbook.getFloat("discount"));
+//		bookroom.setCustomerMobile(jsonbook.getString("customerMobile"));
+//		bookroom.setRoomType(jsonbook.getString("roomType"));
+//		bookroom.setBookedOnDate(jsonbook.getString("bookedOnDate"));
+//		bookroom.setNoRooms(jsonbook.getInt("NoRooms"));
+//		bookroom.setGuests(Guestlist);
+		Booking ro = bookingService.save(book);
+		System.out.println(ro);
+		return new ResponseEntity<Booking>(HttpStatus.OK);
+	}
+	
+	@RequestMapping(value = "/booklist", method = RequestMethod.POST)
+	public ResponseEntity<List<Booking>> checkdate(@RequestBody String user){
+		System.out.println("In Microservice........."+user);
+		JSONObject jsonbook=new JSONObject(user);
+		
+		
+		
+		List<Booking> bkdatelist = bookingService.findbyuser(jsonbook.getString("userName"));
+//		
+		for(var b: bkdatelist) {
+			System.out.println(b);
+		}
+		
+		return new ResponseEntity<List<Booking>>(HttpStatus.OK);
+	}
+}

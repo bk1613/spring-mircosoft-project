@@ -1,0 +1,29 @@
+
+‘
+java:S2293X"YReplace the type specification in this constructor call with the diamond operator ("<>").(ôð—ºüÿÿÿÿ8á™î®Í.H¼,RMINORZ
+CODE_SMELL
+¿
+java:S1130*"‹Remove the declaration of thrown exception 'com.fasterxml.jackson.core.JsonProcessingException', as it cannot be thrown from method's body.(¥áã¾8–ª•áË.H½,RMINORZ
+CODE_SMELL
+s
+java:S1128";Remove this unused import 'com.synex.domain.RoomInventory'.(º‚ñ„ÿÿÿÿÿ8ÓùÿàË.H¾,RMINORZ
+CODE_SMELL
+ˆ	java:S117G"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(å—ØØûÿÿÿÿ8’ÓºâË.H¿,RMINORZ
+CODE_SMELL
+m
+java:S1128";Remove this unused import 'com.synex.domain.SearchDetails'.(Äù¶G8²”Ï”É.HÀ,RMINORZ
+CODE_SMELL
+ˆ
+java:S3776*"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(¥áã¾8á™î®Í.HÁ,RCRITICALZ
+CODE_SMELL
+á
+java:S1130*"­Remove the declaration of thrown exception 'com.fasterxml.jackson.databind.JsonMappingException' which is a subclass of 'com.fasterxml.jackson.core.JsonProcessingException'.(¥áã¾8ÓùÿàË.HÂ,RMINORZ
+CODE_SMELL
+d
+java:S3655C"8Call "hotelitem.isPresent()" before accessing the value.(ÎÄÃé8žøüáË.HÃ,RMAJORZBUG
+‘
+java:S2293V"YReplace the type specification in this constructor call with the diamond operator ("<>").(ëìŒ¶úÿÿÿÿ8‹ÒüÜË.HÄ,RMINORZ
+CODE_SMELL
+‘
+java:S2293j"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ö·ÆÒüÿÿÿÿ8Ðœ’•É.HÅ,RMINORZ
+CODE_SMELL

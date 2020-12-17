@@ -1,0 +1,11 @@
+
+}	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(üäÜÓûÿÿÿÿ8ÆÓ¾¤â.Hß2RMAJORZ
+CODE_SMELL
+f
+java:S1128"3Remove this unused import 'javax.jms.JMSException'.(ú°’ú8’ö˜¤â.HÐ2RMINORZ
+CODE_SMELL
+}	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(ÈÝ©¡ûÿÿÿÿ8«©µ¤â.H×2RMAJORZ
+CODE_SMELL
+x
+java:S1128"ERemove this unused import 'org.springframework.jms.core.JmsTemplate'.(Æïø„8®ÈŽ¤â.HÍ2RMINORZ
+CODE_SMELL

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;com.synex.files&apos; to &apos;com.synex.controller&apos;&#x0D;&#x0A;- Original project: &apos;FileUplaodDonloadValidation&apos;&#x0D;&#x0A;- Original element: &apos;FileUplaodDonloadValidation/src/main/java/com.synex.files&apos;&#x0D;&#x0A;- Renamed element: &apos;FileUplaodDonloadValidation/src/main/java/com.synex.controller&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;com.synex.files&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.synex.files" name="com.synex.controller" qualified="false" references="true" stamp="1607532074587" textual="false" version="1.0"/>
+</session>

@@ -1,0 +1,12 @@
+
+‰
+java:S1128"QRemove this unused import 'org.springframework.web.bind.annotation.RequestParam'.(ֲ¬ְ·שÿÿÿÿ8שֲתב.Hƒ4RMINORZ
+CODE_SMELL
+
+java:S2293""YReplace the type specification in this constructor call with the diamond operator ("<>").(ׁן8ְשרב.H„4RMINORZ
+CODE_SMELL
+
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(² ׂ‚8ְשרב.H…4RMINORZ
+CODE_SMELL
+~
+java:S4684"@Replace this persistent entity with a simple POJO or DTO object.(„ׁֵÿÿÿÿÿ8ְשרב.H†4RCRITICALZVULNERABILITY

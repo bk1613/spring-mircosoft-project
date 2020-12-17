@@ -1,0 +1,29 @@
+package com.synex.controller;
+
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
+
+public class CountryPopulation {
+
+	public int getCountries(String s, int p) throws Exception {
+		
+		return 0;
+	}
+	
+	public static void main(String[] args) throws IOException {
+		// TODO Auto-generated method stub
+
+		BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(System.in));
+		
+		String author = bufferedReader.readLine();
+		
+		int res;
+		String _s;
+		try {
+			//_s = 
+		}
+		
+	}
+
+}

@@ -1,0 +1,97 @@
+
+
+java:S2293‰"YReplace the type specification in this constructor call with the diamond operator ("<>").(‡ß–ğ8“Ó”É.H•:RMINORZ
+CODE_SMELL
+Œ
+java:S2293^"YReplace the type specification in this constructor call with the diamond operator ("<>").(Æì¸å8ûÜË.H–:RMINORZ
+CODE_SMELL
+
+java:S2293´"YReplace the type specification in this constructor call with the diamond operator ("<>").(Æì¸å8õ·ò»Í.H—:RMINORZ
+CODE_SMELL
+™
+java:S1130s"aRemove the declaration of thrown exception 'org.json.JSONException' which is a runtime exception.(Š Ó×şÿÿÿÿ8òƒÌïÊ.H˜:RMINORZ
+CODE_SMELL
+Œ
+java:S2293x"YReplace the type specification in this constructor call with the diamond operator ("<>").(Æì¸å8ùûâË.H™:RMINORZ
+CODE_SMELL
+Å
+java:S1130¯"‹Remove the declaration of thrown exception 'com.fasterxml.jackson.core.JsonProcessingException', as it cannot be thrown from method's body.(¯çŠ‡ûÿÿÿÿ8õ·ò»Í.Hš:RMINORZ
+CODE_SMELL
+•
+java:S1130É"aRemove the declaration of thrown exception 'org.json.JSONException' which is a runtime exception.(Í¤ÌÉ8¯‚ãÓÍ.H›:RMINORZ
+CODE_SMELL
+
+java:S1192"bDefine a constant instead of duplicating this literal "Hotel Name received ............." 5 times.(ù¼øàÿÿÿÿÿ8õ·ò»Í.Hœ:RCRITICALZ
+CODE_SMELL
+Œ
+java:S22931"YReplace the type specification in this constructor call with the diamond operator ("<>").(Æì¸å8½öÅ¾É.H:RMINORZ
+CODE_SMELL
+Œ
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Æì¸å8•€õ›Ç.H:RMINORZ
+CODE_SMELL
+
+java:S2293•"YReplace the type specification in this constructor call with the diamond operator ("<>").(Æì¸å8ÀüËÏ.HŸ:RMINORZ
+CODE_SMELL
+•
+java:S1130‘"aRemove the declaration of thrown exception 'org.json.JSONException' which is a runtime exception.(ïèÊÔ8ÀüËÏ.H :RMINORZ
+CODE_SMELL
+•
+java:S1130Ş"aRemove the declaration of thrown exception 'org.json.JSONException' which is a runtime exception.(©ùõ8ˆ–”ıÍ.H¡:RMINORZ
+CODE_SMELL
+š
+java:S1130–"aRemove the declaration of thrown exception 'org.json.JSONException' which is a runtime exception.(Ñ¯ã´üÿÿÿÿ8Úô€©Í.H¢:RMINORZ
+CODE_SMELL
+”
+java:S1130"aRemove the declaration of thrown exception 'org.json.JSONException' which is a runtime exception.(í£“Ê8ÀêâšÇ.H£:RMINORZ
+CODE_SMELL
+‹
+java:S2293@"YReplace the type specification in this constructor call with the diamond operator ("<>").(„·âJ8òƒÌïÊ.H¤:RMINORZ
+CODE_SMELL
+Å
+java:S1130©"‹Remove the declaration of thrown exception 'com.fasterxml.jackson.core.JsonProcessingException', as it cannot be thrown from method's body.(Ş²êğûÿÿÿÿ8—áÇÌÏ.H¥:RMINORZ
+CODE_SMELL
+š
+java:S1130¯"aRemove the declaration of thrown exception 'org.json.JSONException' which is a runtime exception.(¯çŠ‡ûÿÿÿÿ8õ·ò»Í.H¦:RMINORZ
+CODE_SMELL
+™
+java:S1130-"aRemove the declaration of thrown exception 'org.json.JSONException' which is a runtime exception.(Ú Úúÿÿÿÿ8“Ó”É.H§:RMINORZ
+CODE_SMELL
+š
+java:S1130ø"aRemove the declaration of thrown exception 'org.json.JSONException' which is a runtime exception.(õ±ßüÿÿÿÿ8ë®ÑÎ.H¨:RMINORZ
+CODE_SMELL
+Y
+java:S1170"!Make this final field static too.(ò²öëûÿÿÿÿ8Áø¤Ê.H©:RMINORZ
+CODE_SMELL
+
+java:S2293®"YReplace the type specification in this constructor call with the diamond operator ("<>").(Æì¸å8§˜•àÏ.Hª:RMINORZ
+CODE_SMELL
+
+java:S2293ı"YReplace the type specification in this constructor call with the diamond operator ("<>").(Æì¸å8ë®ÑÎ.H«:RMINORZ
+CODE_SMELL
+š
+java:S1130©"aRemove the declaration of thrown exception 'org.json.JSONException' which is a runtime exception.(Ş²êğûÿÿÿÿ8§˜•àÏ.H¬:RMINORZ
+CODE_SMELL
+
+java:S2293Î"YReplace the type specification in this constructor call with the diamond operator ("<>").(Æì¸å8¯‚ãÓÍ.H­:RMINORZ
+CODE_SMELL
+
+java:S2293â"YReplace the type specification in this constructor call with the diamond operator ("<>").(Æì¸å8ˆ–”ıÍ.H®:RMINORZ
+CODE_SMELL
+g
+java:S1481‡"4Remove this unused "responseEntity1" local variable.(€çë8³™ñİË.H¯:RMINORZ
+CODE_SMELL
+À
+java:S1130É"‹Remove the declaration of thrown exception 'com.fasterxml.jackson.core.JsonProcessingException', as it cannot be thrown from method's body.(Í¤ÌÉ8¯‚ãÓÍ.H°:RMINORZ
+CODE_SMELL
+”
+java:S1130Y"aRemove the declaration of thrown exception 'org.json.JSONException' which is a runtime exception.(¢‘Ò¦8½öÅ¾É.H±:RMINORZ
+CODE_SMELL
+Y
+java:S1170"!Make this final field static too.(­Àøÿÿÿÿ8•€õ›Ç.H²:RMINORZ
+CODE_SMELL
+¿
+java:S1130Y"‹Remove the declaration of thrown exception 'com.fasterxml.jackson.core.JsonProcessingException', as it cannot be thrown from method's body.(¢‘Ò¦8·ÆÚÜË.H³:RMINORZ
+CODE_SMELL
+
+java:S2293™"YReplace the type specification in this constructor call with the diamond operator ("<>").(Æì¸å8Úô€©Í.H´:RMINORZ
+CODE_SMELL

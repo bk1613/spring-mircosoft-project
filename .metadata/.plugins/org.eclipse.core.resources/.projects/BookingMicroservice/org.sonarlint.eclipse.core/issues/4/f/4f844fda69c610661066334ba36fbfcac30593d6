@@ -1,0 +1,10 @@
+
+x
+java:S1128"@Remove this unused import 'javax.mail.internet.InternetAddress'.(–¹“êûÿÿÿÿ8äõö¥Î.H¯,RMINORZ
+CODE_SMELL
+\
+java:S1172")Remove this unused method parameter "bk".(ŠòïÂ8¡þç¤Î.H°,RMAJORZ
+CODE_SMELL
+j
+java:S1128"7Remove this unused import 'com.itextpdf.text.Document'.(ú¾ÍŒ8 âú§Î.H±,RMINORZ
+CODE_SMELL

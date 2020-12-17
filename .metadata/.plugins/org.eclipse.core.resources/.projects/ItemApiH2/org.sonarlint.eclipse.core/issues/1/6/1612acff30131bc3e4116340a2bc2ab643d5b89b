@@ -1,0 +1,10 @@
+
+¼
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Øç½÷üÿÿÿÿ8»±ÿ»æ.HµURCRITICALZ
+CODE_SMELL
+p
+java:S1128"=Remove this unused import 'javax.persistence.GenerationType'.(ı÷õ¡8½­¼æ.HîURMINORZ
+CODE_SMELL
+p
+java:S1128"=Remove this unused import 'javax.persistence.GeneratedValue'.(¤®À‚8½­¼æ.HïURMINORZ
+CODE_SMELL

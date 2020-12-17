@@ -1,0 +1,27 @@
+
+~
+java:S46844"@Replace this persistent entity with a simple POJO or DTO object.(¢á½”üÿÿÿÿ8˜¬ÆœÇ.Hˆ1RCRITICALZVULNERABILITY
+~
+java:S4684W"@Replace this persistent entity with a simple POJO or DTO object.(Áû§Òşÿÿÿÿ8î”åÓÍ.H‰1RCRITICALZVULNERABILITY
+‘
+java:S2293/"YReplace the type specification in this constructor call with the diamond operator ("<>").(¶»Ò¬şÿÿÿÿ8¹à•ÅÇ.HŠ1RMINORZ
+CODE_SMELL
+ƒ	java:S117@"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÁÎ‡‹8î”åÓÍ.H‹1RMINORZ
+CODE_SMELL
+‘
+java:S2293B"YReplace the type specification in this constructor call with the diamond operator ("<>").(®œÀûÿÿÿÿ8Çµ“ıÍ.HŒ1RMINORZ
+CODE_SMELL
+e
+java:S14816"-Remove this unused "jsonbook" local variable.(ô—şÀûÿÿÿÿ8î”åÓÍ.H1RMINORZ
+CODE_SMELL
+a
+java:S1481(".Remove this unused "javaHotel" local variable.(›êÕ8óÑ¾îÇ.H1RMINORZ
+CODE_SMELL
+ƒ	java:S117-"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òõØĞ8…ğ“Ç.H1RMINORZ
+CODE_SMELL
+‘
+java:S2293\"YReplace the type specification in this constructor call with the diamond operator ("<>").(×¥¼¬şÿÿÿÿ8˜¬ÆœÇ.H1RMINORZ
+CODE_SMELL
+Œ
+java:S2293S"YReplace the type specification in this constructor call with the diamond operator ("<>").(é¹Û€8ÑÔñıÍ.H‘1RMINORZ
+CODE_SMELL

@@ -1,0 +1,43 @@
+
+x
+java:S4684N"@Replace this persistent entity with a simple POJO or DTO object.(ÂùíJ8ª…ª¼æ.HäURCRITICALZVULNERABILITY
+Œ
+java:S2293<"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ë¢±÷8ª…ª¼æ.HàURMINORZ
+CODE_SMELL
+‘
+java:S2293R"YReplace the type specification in this constructor call with the diamond operator ("<>").(”ëæ£üÿÿÿÿ8ª…ª¼æ.HåURMINORZ
+CODE_SMELL
+‘
+java:S2293+"YReplace the type specification in this constructor call with the diamond operator ("<>").(ïØšıÿÿÿÿ8ª…ª¼æ.HÜURMINORZ
+CODE_SMELL
+y
+java:S46848"@Replace this persistent entity with a simple POJO or DTO object.(˜ÚŸ8ª…ª¼æ.HßURCRITICALZVULNERABILITY
+‘
+java:S2293G"YReplace the type specification in this constructor call with the diamond operator ("<>").(”ëæ£üÿÿÿÿ8ª…ª¼æ.HâURMINORZ
+CODE_SMELL
+‘
+java:S2293>"YReplace the type specification in this constructor call with the diamond operator ("<>").(Äàœëúÿÿÿÿ8ª…ª¼æ.HáURMINORZ
+CODE_SMELL
+a
+java:S14521"&Remove usage of generic wildcard type.(•ŸŞøÿÿÿÿ8ª…ª¼æ.HİURCRITICALZ
+CODE_SMELL
+‘
+java:S22933"YReplace the type specification in this constructor call with the diamond operator ("<>").(§®ø¸ûÿÿÿÿ8ª…ª¼æ.HŞURMINORZ
+CODE_SMELL
+‘
+java:S2293I"YReplace the type specification in this constructor call with the diamond operator ("<>").(ïØšıÿÿÿÿ8ª…ª¼æ.HãURMINORZ
+CODE_SMELL
+y
+java:S4684 "@Replace this persistent entity with a simple POJO or DTO object.(Ùƒ÷‹8ª…ª¼æ.HÚURCRITICALZVULNERABILITY
+Œ
+java:S2293Z"YReplace the type specification in this constructor call with the diamond operator ("<>").(÷óÁ©8ª…ª¼æ.HæURMINORZ
+CODE_SMELL
+‘
+java:S2293\"YReplace the type specification in this constructor call with the diamond operator ("<>").(Äàœëúÿÿÿÿ8ª…ª¼æ.HçURMINORZ
+CODE_SMELL
+Œ
+java:S2293b"YReplace the type specification in this constructor call with the diamond operator ("<>").(ë™ôÏ8ª…ª¼æ.HèURMINORZ
+CODE_SMELL
+‘
+java:S2293("YReplace the type specification in this constructor call with the diamond operator ("<>").(®²Â‹øÿÿÿÿ8ª…ª¼æ.HÛURMINORZ
+CODE_SMELL

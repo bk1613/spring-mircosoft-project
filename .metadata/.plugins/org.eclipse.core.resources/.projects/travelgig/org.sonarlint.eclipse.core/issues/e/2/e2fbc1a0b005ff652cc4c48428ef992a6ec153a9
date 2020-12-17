@@ -1,0 +1,79 @@
+
+Œ
+java:S2293e"YReplace the type specification in this constructor call with the diamond operator ("<>").(ğ™‘½8‹Ø‘Ë.HÇ5RMINORZ
+CODE_SMELL
+
+java:S2293§"YReplace the type specification in this constructor call with the diamond operator ("<>").(ğ™‘½8åˆ®ÑÎ.HÈ5RMINORZ
+CODE_SMELL
+š
+java:S1130¼"aRemove the declaration of thrown exception 'org.json.JSONException' which is a runtime exception.(éö§Âøÿÿÿÿ8É„“àÏ.HÉ5RMINORZ
+CODE_SMELL
+•
+java:S1130«"aRemove the declaration of thrown exception 'org.json.JSONException' which is a runtime exception.(Ÿ³‚8”¸ÎËÏ.HÊ5RMINORZ
+CODE_SMELL
+š
+java:S1130š"aRemove the declaration of thrown exception 'org.json.JSONException' which is a runtime exception.(’Ì¬«ûÿÿÿÿ8åˆ®ÑÎ.HË5RMINORZ
+CODE_SMELL
+™
+java:S11304"aRemove the declaration of thrown exception 'org.json.JSONException' which is a runtime exception.(ğÚÊ˜øÿÿÿÿ8¼ÛÃ¨Í.HÌ5RMINORZ
+CODE_SMELL
+
+java:S1192I"IDefine a constant instead of duplicating this literal "userName" 4 times.(îøŞ8çõî»Í.HÍ5RCRITICALZ
+CODE_SMELL
+•
+java:S1130Š"aRemove the declaration of thrown exception 'org.json.JSONException' which is a runtime exception.(ƒôÜ‹8Ø€•ıÍ.HÎ5RMINORZ
+CODE_SMELL
+
+java:S2293Æ"YReplace the type specification in this constructor call with the diamond operator ("<>").(ğ™‘½8É„“àÏ.HÏ5RMINORZ
+CODE_SMELL
+f
+java:S1128"4Remove this unused import 'java.security.Principal'.(’ÛŞ[8÷«‚ˆÌ.HĞ5RMINORZ
+CODE_SMELL
+
+java:S2293†"YReplace the type specification in this constructor call with the diamond operator ("<>").(ğ™‘½8ôúãÓÍ.HÑ5RMINORZ
+CODE_SMELL
+Œ
+java:S2293O"YReplace the type specification in this constructor call with the diamond operator ("<>").(ğ™‘½8ŞıÏ†Ì.HÒ5RMINORZ
+CODE_SMELL
+Œ
+java:S2293v"YReplace the type specification in this constructor call with the diamond operator ("<>").(ğ™‘½8Ùï™‹Ì.HÓ5RMINORZ
+CODE_SMELL
+™
+java:S1130Z"aRemove the declaration of thrown exception 'org.json.JSONException' which is a runtime exception.(Ö±Ù‘üÿÿÿÿ8‰ğÊÇ.HÔ5RMINORZ
+CODE_SMELL
+’
+java:S1192)"\Define a constant instead of duplicating this literal "Inside TravelGig Controller" 3 times.(¥»İ€8éôÅ¾É.HÕ5RCRITICALZ
+CODE_SMELL
+
+java:S2293¸"YReplace the type specification in this constructor call with the diamond operator ("<>").(ğ™‘½8”¸ÎËÏ.HÖ5RMINORZ
+CODE_SMELL
+”
+java:S1130i"aRemove the declaration of thrown exception 'org.json.JSONException' which is a runtime exception.(š¢û¶8Ùï™‹Ì.H×5RMINORZ
+CODE_SMELL
+
+java:S2293–"YReplace the type specification in this constructor call with the diamond operator ("<>").(ğ™‘½8Ø€•ıÍ.HØ5RMINORZ
+CODE_SMELL
+™
+java:S1130A"aRemove the declaration of thrown exception 'org.json.JSONException' which is a runtime exception.(Üìûöÿÿÿÿÿ8çõî»Í.HÙ5RMINORZ
+CODE_SMELL
+™
+java:S1130S"aRemove the declaration of thrown exception 'org.json.JSONException' which is a runtime exception.(¤Ù’ßøÿÿÿÿ8‹Ø‘Ë.HÚ5RMINORZ
+CODE_SMELL
+Œ
+java:S2293V"YReplace the type specification in this constructor call with the diamond operator ("<>").(ßí³¸8çõî»Í.HÛ5RMINORZ
+CODE_SMELL
+Ä
+java:S1130S"‹Remove the declaration of thrown exception 'com.fasterxml.jackson.core.JsonProcessingException', as it cannot be thrown from method's body.(¤Ù’ßøÿÿÿÿ8Ú‡Ã¯Ì.HÜ5RMINORZ
+CODE_SMELL
+Œ
+java:S22930"YReplace the type specification in this constructor call with the diamond operator ("<>").(ğ™‘½8úÄİşÆ.Hİ5RMINORZ
+CODE_SMELL
+Œ
+java:S2293="YReplace the type specification in this constructor call with the diamond operator ("<>").(ğ™‘½8¼ÛÃ¨Í.HŞ5RMINORZ
+CODE_SMELL
+™
+java:S1130("aRemove the declaration of thrown exception 'org.json.JSONException' which is a runtime exception.(¢§åºüÿÿÿÿ8“º—“É.Hß5RMINORZ
+CODE_SMELL
+”
+java:S1130z"aRemove the declaration of thrown exception 'org.json.JSONException' which is a runtime exception.(ñ–æÅ8ôúãÓÍ.Hà5RMINORZ
+CODE_SMELL

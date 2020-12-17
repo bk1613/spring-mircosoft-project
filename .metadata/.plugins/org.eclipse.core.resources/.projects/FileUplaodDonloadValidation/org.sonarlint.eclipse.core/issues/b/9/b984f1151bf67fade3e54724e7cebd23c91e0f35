@@ -1,0 +1,21 @@
+
+^
+java:S1148_"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8Ï§¢·æ.HíTRMINORZVULNERABILITY
+w
+java:S2147<"DCombine this catch with the one at line 56, which has the same body.(…‰”Ï8” Ÿ·æ.HêTRMINORZ
+CODE_SMELL
+e
+java:S2093L"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8Ï§¢·æ.HòTRCRITICALZ
+CODE_SMELL
+a
+java:S1452D"&Remove usage of generic wildcard type.(ú•˜€ýÿÿÿÿ8Ï§¢·æ.HïTRCRITICALZ
+CODE_SMELL
+‰
+java:S1128"QRemove this unused import 'org.springframework.web.bind.annotation.PathVariable'.(¹ûñÅþÿÿÿÿ8äø‰»æ.HúTRMINORZ
+CODE_SMELL
+r
+java:S1128":Remove this unused import 'java.io.FileNotFoundException'.(·î™ùÿÿÿÿ8þ€Á»æ.HŠURMINORZ
+CODE_SMELL
+u
+java:S1128"BRemove this unused import 'javax.servlet.http.HttpServletRequest'.(ø©¹…8Ï§¢·æ.HîTRMINORZ
+CODE_SMELL

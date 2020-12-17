@@ -1,0 +1,16 @@
+
+‹
+java:S2293""YReplace the type specification in this constructor call with the diamond operator ("<>").(½ğÆ8•Œ˜ùâ.Hß6RMINORZ
+CODE_SMELL
+‰
+java:S1128"QRemove this unused import 'org.springframework.web.bind.annotation.ResponseBody'.(•¶¶êøÿÿÿÿ8¸Ù‰Ñã.Hà6RMINORZ
+CODE_SMELL
+Œ
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¥Œ–Ç8††ºùâ.Há6RMINORZ
+CODE_SMELL
+
+java:S1128"URemove this unused import 'com.hackerrank.restcontrolleradvice.dto.FizzBuzzResponse'.(éõ¨£üÿÿÿÿ8¸Ù‰Ñã.Hâ6RMINORZ
+CODE_SMELL
+‘
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ì½Ë²üÿÿÿÿ8††ºùâ.Hã6RMINORZ
+CODE_SMELL

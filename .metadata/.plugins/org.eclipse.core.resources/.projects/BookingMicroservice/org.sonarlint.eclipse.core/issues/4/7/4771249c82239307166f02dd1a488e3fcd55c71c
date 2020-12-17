@@ -1,0 +1,9 @@
+
+b
+java:S1128"*Remove this unused import 'java.util.Set'.(ö²„¤şÿÿÿÿ8Ú¦ ŒË.H;RMINORZ
+CODE_SMELL
+]
+java:S36557"1Call "bk.isPresent()" before accessing the value.(í„ŸÚ8ûä‘¼Í.H‚;RMAJORZBUG
+r
+java:S1128":Remove this unused import 'com.synex.domain.Hoteladdress'.(ûåä×üÿÿÿÿ8ß¸ù›Ğ.Hƒ;RMINORZ
+CODE_SMELL

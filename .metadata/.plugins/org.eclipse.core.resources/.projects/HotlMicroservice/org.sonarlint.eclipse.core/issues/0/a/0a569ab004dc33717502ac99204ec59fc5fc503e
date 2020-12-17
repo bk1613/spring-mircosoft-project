@@ -1,0 +1,27 @@
+
+ƒ	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õÃàõ8–Ð¼ÑÎ.H×/RMINORZ
+CODE_SMELL
+‚
+java:S1128
+"ORemove this unused import 'org.springframework.web.bind.annotation.GetMapping'.(‡¡‰Ø8¼° ÒÎ.HØ/RMINORZ
+CODE_SMELL
+ƒ	java:S1174"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÍÇ¡ã8ÙêìËÏ.HÙ/RMINORZ
+CODE_SMELL
+Š
+java:S2293#"YReplace the type specification in this constructor call with the diamond operator ("<>").(ØÏ¯žøÿÿÿÿHÚ/RMINORZ
+CODE_SMELL
+c
+java:S1481("+Remove this unused "jsonQA" local variable.(¿Ä©µþÿÿÿÿ8¾š»ôÏ.HÛ/RMINORZ
+CODE_SMELL
+y
+java:S46844"@Replace this persistent entity with a simple POJO or DTO object.(ÍÇ¡ã8ÙêìËÏ.HÜ/RCRITICALZVULNERABILITY
+‘
+java:S22930"YReplace the type specification in this constructor call with the diamond operator ("<>").(ØÏ¯žøÿÿÿÿ8äÞþßÏ.HÝ/RMINORZ
+CODE_SMELL
+ƒ	java:S117*"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(è¿‰™8ÙêìËÏ.HÞ/RMINORZ
+CODE_SMELL
+‹
+java:S22939"YReplace the type specification in this constructor call with the diamond operator ("<>").(¢†Õb8ÙêìËÏ.Hß/RMINORZ
+CODE_SMELL
+ˆ	java:S1177"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°ø¹›þÿÿÿÿ8äÞþßÏ.Hà/RMINORZ
+CODE_SMELL

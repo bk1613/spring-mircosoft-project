@@ -1,0 +1,29 @@
+
+\
+java:S1452"&Remove usage of generic wildcard type.(ŸÚ×“8´äüÊâ.HÆ:RCRITICALZ
+CODE_SMELL
+‹
+java:S2293)"YReplace the type specification in this constructor call with the diamond operator ("<>").(£ Ò8öìàÊâ.HÇ:RMINORZ
+CODE_SMELL
+ˆ
+java:S1128"PRemove this unused import 'org.springframework.web.bind.annotation.RequestBody'.(â­½Àıÿÿÿÿ8í‹ÚËâ.HÈ:RMINORZ
+CODE_SMELL
+Œ
+java:S22930"YReplace the type specification in this constructor call with the diamond operator ("<>").(ç¹©Ê8ˆÁí…â.HÉ:RMINORZ
+CODE_SMELL
+^
+java:S1148-"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8´äüÊâ.HÊ:RMINORZVULNERABILITY
+‰
+java:S1128"QRemove this unused import 'org.springframework.web.bind.annotation.PathVariable'.(¹ûñÅşÿÿÿÿ8õÊ÷Éâ.HË:RMINORZ
+CODE_SMELL
+‹
+java:S1128	"SRemove this unused import 'org.springframework.beans.factory.annotation.Autowired'.(¡¸Îùÿÿÿÿ8‰Ëâ.HÌ:RMINORZ
+CODE_SMELL
+^
+java:S1148?"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Ä©âÊâ.HÍ:RMINORZVULNERABILITY
+a
+java:S14526"&Remove usage of generic wildcard type.(Ú…¿ìùÿÿÿÿ8Ä©âÊâ.HÎ:RCRITICALZ
+CODE_SMELL
+n
+java:S1128"6Remove this unused import 'com.synex.domain.Uploader'.(Îòö±ùÿÿÿÿ8í‹ÚËâ.HÏ:RMINORZ
+CODE_SMELL

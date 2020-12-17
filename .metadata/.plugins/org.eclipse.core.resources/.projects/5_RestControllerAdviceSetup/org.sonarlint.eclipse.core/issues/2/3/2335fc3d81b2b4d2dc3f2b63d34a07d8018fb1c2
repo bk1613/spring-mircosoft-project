@@ -1,0 +1,13 @@
+
+Œ
+java:S22933"YReplace the type specification in this constructor call with the diamond operator ("<>").(ý¼«¹8êÔ©øâ.H†:RMINORZ
+CODE_SMELL
+¶
+java:S1130"„Remove the declaration of thrown exception 'com.hackerrank.restcontrolleradvice.dto.FizzBuzzException' which is a runtime exception.(íîÐÝúÿÿÿÿH‡:RMINORZ
+CODE_SMELL
+²
+java:S1130"€Remove the declaration of thrown exception 'com.hackerrank.restcontrolleradvice.dto.FizzException' which is a runtime exception.(íîÐÝúÿÿÿÿHˆ:RMINORZ
+CODE_SMELL
+²
+java:S1130"€Remove the declaration of thrown exception 'com.hackerrank.restcontrolleradvice.dto.BuzzException' which is a runtime exception.(íîÐÝúÿÿÿÿH‰:RMINORZ
+CODE_SMELL

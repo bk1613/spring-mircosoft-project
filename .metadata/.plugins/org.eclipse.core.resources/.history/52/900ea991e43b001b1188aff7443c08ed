@@ -1,0 +1,18 @@
+package com.synex.controller;
+
+public class IdenticalDistribution {
+
+	public void distrbute(int[] cardarr, int n) {
+		
+	}
+	
+	
+	public static void main(String[] args) {
+		
+		int[] cardtypes = {4,7,5,11,15};
+		
+		int n = cardtypes.length;
+		
+	}
+
+}

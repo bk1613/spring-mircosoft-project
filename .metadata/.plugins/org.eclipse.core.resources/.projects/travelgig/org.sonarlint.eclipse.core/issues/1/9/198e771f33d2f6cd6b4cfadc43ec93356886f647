@@ -1,0 +1,31 @@
+
+c
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8¤µ½ÍÏ.HÄ(RMINORZ
+CODE_SMELL
+Ä
+java:S1130O"‹Remove the declaration of thrown exception 'com.fasterxml.jackson.core.JsonProcessingException', as it cannot be thrown from method's body.(ðµÊ¾øÿÿÿÿ8Ú¤¤‹Ì.HÃ(RMINORZ
+CODE_SMELL
+Œ
+java:S2293]"YReplace the type specification in this constructor call with the diamond operator ("<>").(ð™‘½8Ú¤¤‹Ì.HÆ(RMINORZ
+CODE_SMELL
+|
+java:S11923"FDefine a constant instead of duplicating this literal "login" 3 times.(Öâ’¾8­ðí®Ì.HÁ(RCRITICALZ
+CODE_SMELL
+y
+java:S1128"ARemove this unused import 'org.springframework.http.HttpHeaders'.(ãŸñ×úÿÿÿÿ8¹“ËŠÌ.H¿(RMINORZ
+CODE_SMELL
+s
+java:S1128"@Remove this unused import 'org.springframework.http.HttpEntity'.(ÂéŽÓ8¹“ËŠÌ.HÇ(RMINORZ
+CODE_SMELL
+™
+java:S1130O"aRemove the declaration of thrown exception 'org.json.JSONException' which is a runtime exception.(ðµÊ¾øÿÿÿÿ8Ú¤¤‹Ì.HÂ(RMINORZ
+CODE_SMELL
+j
+java:S1128"2Remove this unused import 'com.synex.domain.Role'.(‹™ÒÍÿÿÿÿÿ8¤µ½ÍÏ.H¾(RMINORZ
+CODE_SMELL
+w
+java:S1128"?Remove this unused import 'org.springframework.http.MediaType'.(úŸÝ¯þÿÿÿÿ8¹“ËŠÌ.HÀ(RMINORZ
+CODE_SMELL
+c
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8¤µ½ÍÏ.HÅ(RMINORZ
+CODE_SMELL

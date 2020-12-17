@@ -1,0 +1,27 @@
+
+Œ
+java:S22939"YReplace the type specification in this constructor call with the diamond operator ("<>").(æøéé8‡ş”ªÍ.H‰8RMINORZ
+CODE_SMELL
+‘
+java:S2293V"YReplace the type specification in this constructor call with the diamond operator ("<>").(‹ù„èùÿÿÿÿ8¥¹”¼Í.HŠ8RMINORZ
+CODE_SMELL
+‘
+java:S2293G"YReplace the type specification in this constructor call with the diamond operator ("<>").(‚€š‚øÿÿÿÿ8êĞÒ­Í.H‹8RMINORZ
+CODE_SMELL
+b
+java:S1128"*Remove this unused import 'java.util.Set'.(ö²„¤şÿÿÿÿ8‡ş”ªÍ.HŒ8RMINORZ
+CODE_SMELL
+`
+java:S1128".Remove this unused import 'java.util.HashSet'.(Ê‚êX8‡ş”ªÍ.H8RMINORZ
+CODE_SMELL
+e
+java:S1128"3Remove this unused import 'com.synex.domain.Guest'.(ßÇ…8óÕïşÍ.H8RMINORZ
+CODE_SMELL
+g
+java:S1128"/Remove this unused import 'java.util.Optional'.(¨˜ëİüÿÿÿÿ8ş€¥Ê.H8RMINORZ
+CODE_SMELL
+‘
+java:S2293)"YReplace the type specification in this constructor call with the diamond operator ("<>").(ë”°øÿÿÿÿ8ş€¥Ê.H8RMINORZ
+CODE_SMELL
+y
+java:S4684#"@Replace this persistent entity with a simple POJO or DTO object.(°¾È™8‚£ò°Ì.H‘8RCRITICALZVULNERABILITY

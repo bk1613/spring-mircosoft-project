@@ -1,0 +1,75 @@
+package com.synex.controller;
+
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
+import java.net.URI;
+import java.net.http.HttpClient;
+import java.net.http.HttpRequest;
+import java.net.http.HttpResponse;
+
+import org.json.simple.JSONArray;
+import org.json.simple.JSONObject;
+import org.json.simple.JSONValue;
+
+public class CountryPopulation {
+
+	public static int getCountries(String s, int p) throws Exception {
+		String url = "https://jsonmock.hackerrank.com/api/countries/search?name="+s;
+		
+		HttpClient client = HttpClient.newHttpClient();
+		
+		HttpRequest request = HttpRequest.newBuilder().uri(URI.create(url)).build();
+		
+		HttpResponse<String> response;
+		
+		response = client.send(request, HttpResponse.BodyHandlers.ofString());
+		
+		JSONObject jsonObject = (JSONObject) JSONValue.parse(response.body());
+		
+		JSONArray jsonArtilces = (JSONArray) jsonObject.get("data");
+		long total = (long) jsonObject.get("total");
+		long page = (long) jsonObject.get("page");
+		long total_pages = (long) jsonObject.get("total_pages");
+		
+		
+		
+		
+		return 0;
+	}
+	
+	public static void main(String[] args){
+		// TODO Auto-generated method stub
+
+		BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(System.in));
+
+		int res;
+		String in;
+		try {
+			in = bufferedReader.readLine();
+		}catch(Exception e) {
+			in = null;
+		}
+		
+		int _p;
+		
+		try {
+			_p = Integer.parseInt(bufferedReader.readLine().trim());
+		} catch (NumberFormatException e1) {
+			// TODO Auto-generated catch block
+			e1.printStackTrace();
+		} catch (IOException e1) {
+			// TODO Auto-generated catch block
+			e1.printStackTrace();
+		}
+		
+		try {
+			res = getCountries(in, _p);
+			
+		}catch(Exception e) {
+			res = 0;
+		}
+		
+	}
+
+}
