@@ -35,7 +35,10 @@ public class AppConfig {
 		datasource.setDriverClassName("com.mysql.cj.jdbc.Driver");
 		datasource.setUsername("root");
 		datasource.setPassword("Success@03");
-		
+//		datasource.setUrl("jdbc:oracle:thin:@localhost:1521:xe");
+//		datasource.setDriverClassName("oracle.jdbc.OracleDriver");
+//        datasource.setUsername("SCOTT");
+//        datasource.setPassword("TIGER");
 
 		return datasource;
 	}
@@ -64,6 +67,7 @@ public class AppConfig {
 	public Properties jpaProperties(){
 		Properties jpaProperties = new Properties();
 		jpaProperties.setProperty("hibernate.dilect", "org.hibernate.dialect.MySQL5Dialect");
+//		jpaProperties.setProperty("hibernate.dialect", "org.hibernate.dialect.Oracle10gDialect");
 		jpaProperties.setProperty("hibernate.show_sql", "false");
 		jpaProperties.setProperty("hibernate.hbm2ddl.auto", "update"); // hbm = hibernate mapping, ddl = data definition language
 		
