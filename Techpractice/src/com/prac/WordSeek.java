@@ -62,6 +62,9 @@ public class WordSeek {
 		String[] name = {"ANDY", "CAT", "DOG"};
 		seekWord(arr, name);
 		//conflict happens when user push the same file. To resolve it we use merge
+		//conflict happens when one user made changes push the code, other can't until that person revert or accept the changes of the same code and then push again
+		//conflict happens when the user made changes to the code on their local computer but can't pull from repo because code from repo doesn't match, need to reset
+		//to get merge tool, pull the data first
 	}
 
 }
