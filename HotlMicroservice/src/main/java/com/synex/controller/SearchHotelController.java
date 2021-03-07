@@ -13,8 +13,12 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RestController;
 
+import com.fasterxml.jackson.databind.JsonNode;
+import com.synex.domain.Amenities;
 import com.synex.domain.Hotel;
 import com.synex.domain.HotelReview;
+import com.synex.domain.HotelRoom;
+import com.synex.domain.RoomType;
 import com.synex.domain.SearchDetails;
 import com.synex.repository.HotelRepository;
 import com.synex.repository.HotelReviewRepository;
@@ -32,6 +36,15 @@ public class SearchHotelController {
 	
 	@Autowired
 	HotelReviewRepository hotelReviewRepository;
+	
+	@PostMapping("saveAmentines")
+	public ResponseEntity<Amenities> saveAmenities(@RequestBody Amenities amen){
+		
+		
+		System.out.println(amen);
+		amen = hotelservice.saveAmenties(amen);
+		return new ResponseEntity<Amenities>(amen, HttpStatus.OK);
+	}
 	
 	@RequestMapping(value = "/getHotelBySearch", method = RequestMethod.POST)
 	public ResponseEntity<List<Hotel>> getHotel(@RequestBody String hotel){
@@ -92,6 +105,32 @@ public class SearchHotelController {
 		return new ResponseEntity<Hotel>(h, HttpStatus.CREATED);
 	}
 	
-	
-	
+	@PostMapping("saveRoom")
+	public ResponseEntity<HotelRoom> createHotelRoom(@RequestBody JsonNode hotelroom){
+		
+		System.out.println(hotelroom.get("roomId").asInt());
+		HotelRoom hr = new HotelRoom();
+		hr.setRoomId(hotelroom.get("roomId").asInt());
+		hr.setArea(hotelroom.get("area").asText());
+		hr.setPrice(hotelroom.get("price").asDouble());
+		hr.setDiscount(hotelroom.get("discount").asDouble());
+		hr.setDescription(hotelroom.get("description").asText());
+		hr.setPolicy(hotelroom.get("policy").asText());
+		hr.setTotalroom(hotelroom.get("totalroom").asInt());
+		hr.setRoomImage(hotelroom.get("roomImage").asText());
+		
+		RoomType rt = hotelservice.findRoomType(hotelroom.get("typeid").asInt());
+		
+		hr.setType(rt);
+		System.out.println(hr);
+		hr = hotelservice.saveHotelRoom(hr);
+		return new ResponseEntity<HotelRoom>(hr, HttpStatus.CREATED);
+	}
+	@PostMapping("saveRoomtype")
+	public ResponseEntity<RoomType> saveRoomType(@RequestBody RoomType roomtype){
+		
+		roomtype = hotelservice.saveRoomType(roomtype);
+		
+		return new ResponseEntity<RoomType>(roomtype, HttpStatus.CREATED);
+	}
 }

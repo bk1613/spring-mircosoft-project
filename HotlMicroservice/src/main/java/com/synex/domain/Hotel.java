@@ -15,7 +15,6 @@ import javax.persistence.Transient;
 @Entity
 public class Hotel {
 	@Id
-	@GeneratedValue(strategy = GenerationType.AUTO) 
 	private int hotelId;
 	private String hotelName;
 	private String address;	

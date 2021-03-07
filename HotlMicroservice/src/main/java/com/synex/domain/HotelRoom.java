@@ -14,7 +14,6 @@ import javax.persistence.ManyToOne;
 public class HotelRoom {
 	
 	 @Id
-	 @GeneratedValue(strategy = GenerationType.AUTO)
 	 private int roomId;
 	 private String area;
 	 private double price;

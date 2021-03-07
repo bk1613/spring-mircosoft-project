@@ -8,7 +8,6 @@ import javax.persistence.Id;
 @Entity
 public class RoomType {
 	@Id
-    @GeneratedValue(strategy = GenerationType.AUTO)
     private int typeId;
     private String name;
 	public RoomType() {
